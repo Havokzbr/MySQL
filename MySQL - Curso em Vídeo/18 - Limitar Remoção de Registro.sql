@@ -1,0 +1,2 @@
+DELETE FROM cursos
+WHERE ano = '2000' LIMIT 2;

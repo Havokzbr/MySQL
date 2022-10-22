@@ -1,0 +1,5 @@
+ALTER TABLE pessoas
+MODIFY COLUMN profissao VARCHAR(20) NOT NULL DEFAULT '';
+
+SELECT *
+FROM pessoas; 
